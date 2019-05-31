@@ -22,7 +22,7 @@ class Navbar extends Component {
 							<span>🇦🇺</span>
 						</IconButton>
 						<Typography className={classes.title} variant="h6" color="inherit">
-							title
+							React Hooks With Context
 						</Typography>
 						<Switch />
 						<div className={classes.grow} />
